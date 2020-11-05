@@ -1,0 +1,12 @@
+name: covid
+title: covid
+username:
+account: chebbes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3021873
+bundleId: 3744965
+url: https://chebbes.shinyapps.io/covid/
+when: 1602766467.01268
+asMultiple: FALSE
+asStatic: FALSE

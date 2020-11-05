@@ -31,4 +31,3 @@ data %>% filter(areaName=="England");
 
 ggplot(data,aes(x=date,y=newCasesByPublishDate))+geom_point()
 
-                    
